@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my CV [here](files/resume.pdf)
+
+### A brief summary:
+
 Education
 ======
 * Ph.D in Computational Biology, University of Toronto, 2021-
