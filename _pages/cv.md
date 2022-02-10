@@ -11,49 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computational Biology, University of Toronto, 2021-
+* M.S. in Biotechnology, ETH Zurich, 2021
+* B.S. in Life Science and Biotechnology, 2017
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2020 - February 2021: Master's Thesis
+  * ETH Zurich
+  * High-throughput antibody developability screening for machine learning model development
+  * Supervisor: Dr. Derek Mason, Prof. Sai Reddy
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* August 2019 - February 2020: Research Project
+  * ETH Zurich
+  * Computational analysis of deep mutational scanning on Cas1 for CRISPR acquistion optimization
+  * Supervisor: Masha Cherepkova, Prof. Randall Platt
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* August 2017 - June 2018: Clinical Development Associate
+  * ImmuneOncia Therapeutics Inc.
+  * Assisting clinical development of immune checkpoint inhibitor candidates (anti-PD-L1/CD47 mAb)
+
+* August 2016 - June 2017: Research Intern
+  * Yonsei University
+  * Thesis: DNA-based ABC monomers in disease diagnosis and therapy
+  * Skills: High pressure liquid chromatography, mammalian cell maintenance, nucleic acid hydrogel synthesis
+  * Supervisor: Dr. Young Hoon Roh
